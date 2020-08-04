@@ -1,0 +1,4 @@
+#Tue Aug 04 10:51:55 CEST 2020
+base.0=/Users/farinaalikurabarwala/Documents/Certain/SampleCodes/quickstart-android/Portrait-Camera1/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
